@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MoveBlock
+  - normal
+  - Wall
+  - TriggerStop
+  - Trigger Spawn Block
+  - Trigger Move Block
+  - Check Point
+  - Move Block Floor 2
+  - Trigger Move Block 2
+  - Trigger Turn Left
+  - Trigger Forward
+  - Trigger Turn Right
+  - Check Point 2
+  - Ball
+  - Trigger Cant Touch
+  - Trigger Move To Cannon
+  - Pos Fire Cannon
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
